@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-## My Nama Is Dimas Fauzan
+## My Name Is Dimas Fauzan
 
 <!-- - My portofolio website [My Portofolio]() -->
 
